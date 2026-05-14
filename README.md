@@ -224,4 +224,4 @@ The API will be available at `http://localhost:5000`
 
 Ranabahu Athukoralage Thanuk Gimantha
 2022/ICT/27
-Module: Web Services and Technology (IT2234)
+Module: Web Services and Server Technology (IT2234)
