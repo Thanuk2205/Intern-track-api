@@ -1,0 +1,24 @@
+{
+  "name": "intern-track-api",
+  "version": "1.0.0",
+  "description": "A RESTful API backend built with Node.js, Express.js, and MongoDB to help university students track and manage their internship applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanuk2205/Intern-track-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Thanuk2205/Intern-track-api/issues"
+  },
+  "homepage": "https://github.com/Thanuk2205/Intern-track-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
